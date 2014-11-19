@@ -1,0 +1,4 @@
+{
+  "scripts": ["ObjectValidator.js"],
+  "main": "ObjectValidator.js"
+}
